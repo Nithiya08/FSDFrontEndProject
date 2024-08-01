@@ -1,5 +1,32 @@
+.img{
+  background-image : url(../public/picture.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  margin: 0;
+}
+.image{
+   width: 250px;
+   height: 250px;
+}
+.color{
+  color: rgb(16, 8, 72);
+}
+.footer{
+  background-color: #f1f1f1;
+  background-color: rgb(174, 214, 230);
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%
+}
+
 .App {
   text-align: center;
+  
+    
 }
 
 .App-logo {
